@@ -1,2 +1,3 @@
-source/
-source.zip
+# Ignore local large files
+*.zip
+*.tar.xz
